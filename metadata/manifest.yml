@@ -5,9 +5,9 @@ Description: "Market-leading open source enterprise platform for next-generation
 Version: '6.0'
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
-Vendor: Eric Sauer
+Vendor: etsauer
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: Eric Sauer
+Cartridge-Vendor: etsauer
 Categories:
   - service
   - web_framework
