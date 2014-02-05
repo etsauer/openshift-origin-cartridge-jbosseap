@@ -5,7 +5,7 @@ Description: "Market-leading open source enterprise platform for next-generation
 Version: '6.0'
 License: LGPL
 License-Url: http://www.gnu.org/copyleft/lesser.txt
-Vendor: Red Hat
+Vendor: Eric Sauer
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: redhat
 Categories:
